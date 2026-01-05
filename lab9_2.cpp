@@ -14,3 +14,4 @@ void printO(int N, int M) {
         cout << endl;
     }
 }
+0
